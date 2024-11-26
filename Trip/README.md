@@ -1,11 +1,4 @@
-# Joachim Justesen Documentation
-
-## Todo
-1. Opret givet database
-2. Ændre DB name til givet database navn i config fil
-3. Kør main
-4. Fjern entititer i Hibernate.
-5. Fjern entititer og dto'er til sidst
+Documentation
 
 ### 3.3.3
 GET http://localhost:7070/api/trips
